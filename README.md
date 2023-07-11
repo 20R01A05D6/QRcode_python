@@ -37,4 +37,10 @@ Running the script is really simple! Just open a terminal in the folder where yo
     python QRcode.py
 
 
+## Sample use of the script
+<!--Remove the below lines and add yours -->
+```
+$ python QRcode.py 
 
+```
+![QRcode output](https://github.com/20R01A05D6/QRcode_python/assets/122285082/d8c77f83-05ba-4796-96aa-acbfb4a553a1)
