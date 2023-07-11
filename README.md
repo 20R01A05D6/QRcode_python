@@ -1,4 +1,8 @@
 # QRcode_python
+The script is mainly used to create a QRcode using URL.
+
+## Code Explaination
+<!--Remove the below lines and add yours -->
 import qrcode : This line imports the qrcode module, which provides functions and classes to generate QR codes.
 
 obj_qr = qrcode.QRCode(version = 1, error_correction = qrcode.constants.ERROR_CORRECT_L, box_size = 10, border = 4) : 
@@ -20,3 +24,17 @@ This line creates an image object from the QR code object.
 The fill_color and back_color parameters specify the colors of the modules and the background of the image, respectively.
 
 qr_img.save("qr-img2.png") : This line saves the image object as a PNG file with the given name.
+
+## Prerequisites
+<!--Remove the below lines and add yours -->
+You only need Python to run this script. You can visit [here](https://www.python.org/downloads/) to download Python.
+
+
+## How to run the script
+<!--Remove the below lines and add yours -->
+Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
+
+    python QRcode.py
+
+
+
