@@ -29,4 +29,4 @@ Running the script is really simple! Just open a terminal in the folder where yo
 $ python QRcode.py 
 
 ```
-![QRcode output](https://github.com/20R01A05D6/QRcode_python/assets/122285082/d8c77f83-05ba-4796-96aa-acbfb4a553a1)
+![QRcode output1](https://github.com/20R01A05D6/QRcode_python/assets/122285082/56765eb0-0898-4d71-aaa4-52728ee3b641)
